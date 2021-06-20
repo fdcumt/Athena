@@ -8,7 +8,7 @@ cmake_minimum_required(VERSION 3.18)
 
 
 #设置项目名称
-set(SlnName "Games101")
+set(SlnName "Athena")
 
 
 #在顶层引入通用函数模块
